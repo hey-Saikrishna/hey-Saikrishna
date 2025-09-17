@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saikrishna Thotakuri  
 
-🚀 Aspiring DevOps Engineer | AWS | GCP | Azure | Terraform | Linux | GitHub | Ansible | CI/CD  
+🚀 Aspiring DevOps Engineer | AWS | GCP | Azure | Terraform | Linux | GitHub | Jenkins | Docker | Kubernetes | Ansible | CI/CD | Monitoring  
 
 ---
 
@@ -15,8 +15,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+
+---
+
+### 🔄 DevOps Workflow  
+Here’s a simple DevOps pipeline showing how everything connects together:  
+
+![DevOps Pipeline](https://miro.medium.com/v2/resize:fit:1400/1*5bLBzAUN6E0aPdpJ3ZUPQw.png)  
 
 ---
 
@@ -34,4 +44,5 @@
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishna-thotakuri)
+
 
