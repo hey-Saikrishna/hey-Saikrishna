@@ -24,3 +24,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
+
+### 🔄 DevOps Workflow  
+Here’s a simple DevOps pipeline showing how everything connects together:  
+
+![DevOps Pipeline](https://miro.medium.com/v2/resize:fit:1400/1*5bLBzAUN6E0aPdpJ3ZUPQw.png)  
+
+---
+
+### 📊 GitHub Stats  
+![Saikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey-Saikrishna&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-Saikrishna&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hey-Saikrishna&theme=tokyonight)  
+
+---
+
+### 🏆 Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=hey-Saikrishna&theme=tokyonight&no-frame=true&margin-w=15)  
