@@ -76,6 +76,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hey-Saikrishna&theme=tokyonight)  
 
 ---
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ### 🏆 Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=hey-Saikrishna&theme=tokyonight&no-frame=true&margin-w=15)  
