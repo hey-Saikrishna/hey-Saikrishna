@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="60" alt="jenkins logo"  />
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hey-Saikrishna&theme=tokyonight&no-frame=true&margin-w=15)  
+
 
 
 ## 📬 Connect with Me  
