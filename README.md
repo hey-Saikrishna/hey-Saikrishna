@@ -35,10 +35,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="60" alt="jenkins logo"  />
 </div>
 
-###
+![trophy](https://github-profile-trophy.vercel.app/?username=hey-Saikrishna&theme=tokyonight&no-frame=true&margin-w=15)  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
+
+### 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishna-thotakuri)
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
@@ -50,22 +52,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-</p>
-
-### 🔄 DevOps Workflow  
-Here’s a simple DevOps pipeline showing how everything connects together:  
-
-![DevOps Pipeline](https://miro.medium.com/v2/resize:fit:1400/1*5bLBzAUN6E0aPdpJ3ZUPQw.png)  
+<div align="center"> 
 
 ---
 
