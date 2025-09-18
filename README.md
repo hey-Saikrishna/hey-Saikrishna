@@ -37,18 +37,28 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hey-Saikrishna&theme=tokyonight&no-frame=true&margin-w=15)  
 
----
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishna-thotakuri)
-  <img src="https://img.shields.io/static/v1?
+## 📬 Connect with Me  
+
 <div>
+  <!-- Gmail -->
   <a href="mailto:thotakurisaikrishna@gmail.com">
-    <img src="https://img.shields.io/badge/message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/saikrishna-thotakuri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/hey-Saikrishna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
 
-###
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
