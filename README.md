@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="amazon-web-services"/>
+  <img src="https://img.icons8.com/windows/32/FD7E14/amazon-web-services.png" alt="AWS" width="62" height="62"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
@@ -37,16 +37,10 @@
   </div>
 
 
-
-
 ## 📬 Connect with Me  
 
 <div>
-  <!-- Gmail -->
-  <a href="mailto:thotakurisaikrishna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
-  </a>
-
+ 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/saikrishna-thotakuri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
@@ -56,14 +50,13 @@
   <a href="https://github.com/hey-Saikrishna" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
   </a>
+
+   <!-- Gmail -->
+  <a href="mailto:thotakurisaikrishna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
+  </a>
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
@@ -73,8 +66,10 @@
 
 ### 📊 GitHub Stats  
 ![Saikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey-Saikrishna&show_icons=true&theme=tokyonight)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-Saikrishna&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hey-Saikrishna&theme=tokyonight)  
+ 
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=hey-Saikrishna&theme=tokyonight)](https://github.com/hey-Saikrishna)
 
 ---
 
