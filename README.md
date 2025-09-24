@@ -1,6 +1,26 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+# 👋 Hi, I'm Saikrishna  
 
-###
+🚀 Aspiring **DevOps Engineer | Cloud Enthusiast | Java Learner**  
+
+## 🌟 About Me
+- 🔭 Currently learning **AWS, Jenkins, Docker, Kubernetes**
+- 💻 Practicing **Linux, Terraform, and CI/CD pipelines**
+- 🌱 Exploring **Java projects** to strengthen my coding & automation skills
+- 🎯 Goal: Become a skilled **DevOps Engineer**
+
+## 🛠️ Tech Stack
+- **Cloud**: AWS (EC2, S3, IAM, RDS)  
+- **DevOps Tools**: Jenkins, Git, Maven, Terraform  
+- **Programming**: Java, Python (basics)  
+- **Linux**: Shell scripting, system monitoring, file management  
+ 
+⭐️ *I believe in learning by doing – building projects, breaking things, and fixing them again!*
+
+<div align="center">
+<div align="center">
+
+
 
 <div align="center">
   <img src="https://img.icons8.com/windows/32/FD7E14/amazon-web-services.png" alt="AWS" width="62" height="62"/>
